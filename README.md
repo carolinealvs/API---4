@@ -56,7 +56,7 @@ Sprint | Previsão | Status| Histórico|
 Apresentação das funcionalidades
 Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário do sistema:
 
-![Nome do Vídeo]()
+
 
 ## Tratamento de Dados 
 
@@ -88,7 +88,7 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 - [ ] Publicar avanços no Git Hub
 - [ ] Relatório
 
-## Sprint 2 - EficiÊncia e tempos de operação
+## Sprint 2 - Eficiência e tempos de operação
 - [ ] Avaliar produtividade dos terminais
 - [ ] Calcular indicador de eficiência (infraestrutura x carga)
 - [ ] Criar ranking dos terminais
@@ -96,7 +96,7 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 - [ ] Visualizar portos mais ágeis e os portos com maior espera
 - [ ] Relatório 
       
-## Sprint 3
+## Sprint 3 - Movimentação e Análise de Carga
 - [ ] Movimentação mensal por terminal
 - [ ] Criar gráficos mensais interativos
 - [ ] Filtrar por terminal e período
@@ -105,7 +105,7 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 - [ ] Visualizar evoluão mensal de movimentação de soja
 - [ ] Relatório
       
-## Sprint 4
+## Sprint 4 - Funcionalidades Finais e Conclusão
 - [ ] Segmentação por terminal
 - [ ] Vizualizar ranking e evolução mensal
 - [ ] Implementar buscas e filtros personalizados

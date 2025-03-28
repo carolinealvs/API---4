@@ -49,7 +49,7 @@ Sprint | Previsão | Status| Histórico|
 |Finalização|27/06/2025 |a fazer |[MVP](https://) | 
 
 # Backlog do produto
-- [ ] 
+
 
 # Funcionalidades e registros das sprints
 
@@ -71,10 +71,11 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
       
 ## Tecnologias Utilizadas
 
-<div id="top"></div> 
-<p align="center"> 
-      <img src="api/tecnologia.png"20%" height="40%"> 
-<p align="center">
+ ### Tecnologias Específicas/Apoio
+ > Liste aqui todas as tecnologias utilizadas para concluir a entrega
+  
+ ### Tecnologias da Informação
+ > Liste aqui todas as tecnologias utilizadas para concluir a entrega
 
 
 # Backlog do produto

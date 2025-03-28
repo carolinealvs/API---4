@@ -41,19 +41,15 @@ Espera-se que o modelo matemático determine as rotas mais rápidas e econômica
 # Cronograma das Sprints
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off| dd/03/2025 | a fazer| [MVP](https://) | 
-|01|  12/04/2025| a fazer|[MVP](https://) | 
-|02| 04/04/2025 | a fazer|[MVP](https://) | 
-|03| 25/05/2025 |a fazer |[MVP](https://)  | 
+|Kick Off| 12/03/2025 | a fazer| [MVP](https://) | 
+|01|  04/04/2025| a fazer|[MVP](https://) | 
+|02| 25/04/2025 | a fazer|[MVP](https://) | 
+|03| 16/05/2025 |a fazer |[MVP](https://)  | 
 |Feira de Soluções|19/05/2025 |a fazer |[MVP](https://) | 
 |Finalização|27/06/2025 |a fazer |[MVP](https://) | 
 
 # Backlog do produto
-- [x] Modelo de Banco de dados consolidados em SQL
-- [x] Visualização gráficas iniciais de métricas importantes, como a quantidade transportada por mês e por veículo, a quantidade transportada por fábrica, o valor do frete por fábrica e a média de aproveitamento por veículo no Power BI
-- [x] Método de transporte e otimização em python
-- [x] Visualizações gráficas dos resultados otimizados 
-- [x] Evoluções e comparativos dos custos
+- [ ] 
 
 # Funcionalidades e registros das sprints
 

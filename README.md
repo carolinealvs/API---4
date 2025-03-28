@@ -31,12 +31,7 @@ O projeto, fundamentado na metodologia Ágil Scrum, visa realizar a análise da 
 |  Team Member  | José Augusto | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-augusto-1814131a2) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]() |
       
 # Objetivo do Projeto
-O propósito deste projeto é aprimorar as rotas de três unidades de uma mesma empresa através da aplicação de métodos de pesquisa operacional. O objetivo é criar um modelo que aumente a eficiência logística, reduzindo custos e tempo de transporte entre as unidades, e assim assegurar uma distribuição mais rápida e econômica dos produtos.
-
-# Resultados Esperados
-O resultado desejado do modelo de otimização usando pesquisa operacional é a definição das rotas de transporte mais eficazes entre as três plantas da empresa. O objetivo é que o modelo ofereça um plano detalhado que reduza ao máximo os custos totais de transporte, levando em conta aspectos como distância, capacidade dos veículos, tempo de deslocamento e restrições operacionais.
-
-Espera-se que o modelo matemático determine as rotas mais rápidas e econômicas, assegurando entregas pontuais e minimizando o tempo ocioso dos veículos. Além disso, o modelo deve ser flexível o suficiente para se ajustar a diferentes cenários e condições operacionais, permitindo lidar com imprevistos e variações na demanda.
+O propósito deste projeto é desenvolver um dashboard que disponibilize informações sobre a eficiência portuária com base nos tempos de processamentos nos portos brasileiros e dados específicos do setor.
 
 # Cronograma das Sprints
 Sprint | Previsão | Status| Histórico|
@@ -47,8 +42,6 @@ Sprint | Previsão | Status| Histórico|
 |03| 16/05/2025 |a fazer |[MVP](https://)  | 
 |Feira de Soluções|19/05/2025 |a fazer |[MVP](https://) | 
 |Finalização|27/06/2025 |a fazer |[MVP](https://) | 
-
-# Backlog do produto
 
 
 # Funcionalidades e registros das sprints

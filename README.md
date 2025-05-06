@@ -37,7 +37,7 @@ O propósito deste projeto é desenvolver um dashboard que disponibilize informa
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off| 12/03/2025 | a fazer| [MVP](https://) | 
-|01|  04/04/2025| a fazer|[MVP](https://) | 
+|01|  07/05/2025| a fazer|[MVP](https://) | 
 |02| 25/04/2025 | a fazer|[MVP](https://) | 
 |03| 16/05/2025 |a fazer |[MVP](https://)  | 
 |Feira de Soluções|19/05/2025 |a fazer |[MVP](https://) | 
@@ -74,11 +74,12 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 # Backlog do produto
 
 ## Sprint 1 - Coleta e Planejamento
-- [ ] Baixar e integrar dados de atracação e carga
-- [ ] Filtrar registros relevantes para a análise
-- [ ] Limpar, normalizar e estruturar os dados
-- [ ] Documentar código python para uso futuro
-- [ ] Publicar avanços no Git Hub
+- [x] Baixar e integrar dados de atracação e carga
+- [x] Filtrar registros relevantes para a análise
+- [x] Filtragem da Carga soja
+- [x] Limpar, normalizar e estruturar os dados
+- [x] Documentar código python para uso futuro
+- [x] Publicar avanços no Git Hub
 - [ ] Relatório
 
 ## Sprint 2 - Eficiência e tempos de operação

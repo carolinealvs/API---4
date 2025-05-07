@@ -65,7 +65,7 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 ## Tecnologias Utilizadas
 
  ### Tecnologias Específicas/Apoio
- > Liste aqui todas as tecnologias utilizadas para concluir a entrega
+ 
 ![Tecnologias](https://github.com/user-attachments/assets/894d66c7-217d-47f8-ba66-92bfa9a8b4b7)
 
   

@@ -68,11 +68,6 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
  
 ![Tecnologias](https://github.com/user-attachments/assets/894d66c7-217d-47f8-ba66-92bfa9a8b4b7)
 
-  
- ### Tecnologias da Informação
- > Liste aqui todas as tecnologias utilizadas para concluir a entrega
-
-
 # Backlog do produto
 
 ## Sprint 1 - Coleta e Planejamento

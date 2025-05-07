@@ -38,8 +38,8 @@ Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off| 12/03/2025 | a fazer| [MVP](https://) | 
 |01|  07/05/2025| a fazer|[MVP](https://) | 
-|02| 25/04/2025 | a fazer|[MVP](https://) | 
-|03| 16/05/2025 |a fazer |[MVP](https://)  | 
+|02| 14/05/2025 | a fazer|[MVP](https://) | 
+|03| 21/05/2025 |a fazer |[MVP](https://)  | 
 |Feira de Soluções|19/05/2025 |a fazer |[MVP](https://) | 
 |Finalização|27/06/2025 |a fazer |[MVP](https://) | 
 
